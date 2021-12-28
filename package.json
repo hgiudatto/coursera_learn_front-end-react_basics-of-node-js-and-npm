@@ -1,0 +1,14 @@
+{
+  "name": "coursera_learn_front-end-react_basics-of-node-js-and-npm",
+  "version": "1.0.0",
+  "description": "Este es un directorio de prueba para aprender Git y Node",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hgiudatto",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
